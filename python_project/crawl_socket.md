@@ -150,6 +150,7 @@ def writeIntoFile(lst, url, fpath):
 
 是用来查看在哪里抛出了异常的
 
+## 请注意，这个项目是为了学习requests、re、beautifulsoup的，所以效率上会有很大的问题，爬起来的速度相当滴慢。
 
 ## python 爬取股票信息源码
 
