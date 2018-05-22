@@ -6,7 +6,7 @@
 
 ## 一些库的笔记和官方文档
 
-1. [request笔记](/python_package/request.md)
+1. [requests笔记](/python_package/request.md)
 2. [beautifulsoup笔记](/python_package/BeautifulSoup.md)
 3. [re库官方文档](https://docs.python.org/3/library/re.html)
 4. [scrapy库](https://docs.scrapy.org/en/latest/)
@@ -18,8 +18,22 @@
 
 好的，现在开始我们的项目了...
 
-如果了解python的语法、以及对 request库、beautifulsoup库有了一些基本了解了，那么我们就先来第一个简单的项目
+如果了解python的语法、以及对 requests库、beautifulsoup库有了一些基本了解了，那么我们就先来第一个简单的项目
 
-1. [python爬取股票信息(使用request库、re库、beautifulsoup库)](/python_project/crawl_socket.md)
+## requests 库
+
+1. [python爬取股票信息(使用requests库、re库、beautifulsoup库)](/python_project/crawl_socket.md)
+
+... ...
+
+[TODO:补几个仅仅依靠requests、beautifulsoup小项目]
+
+## scrapy 框架
+
+1. [scrapy 框架简易上手]
+
+2. [scrapy 框架使用代理(使用代理API)](/python_project/scrapy_proxy.md)
+
+
 
 
