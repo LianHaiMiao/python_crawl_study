@@ -121,7 +121,7 @@ class QuotesSpider(scrapy.Spider):
 
 ## 5. 第四步：处理爬取到的数据
 
-`tutorial` 文件夹下面有一个叫  `pipelines.py` 的文件，这个文件是用来处理我们从网页上爬取到的数据。
+我们在 `tutorial` 文件夹下面新建一个文件夹叫 `data` 用来保存数据，然后在 `data` 目录下新建一个文件叫 `items.jl`, 将爬取到的数据保存在这个文件之中。最后在 `tutorial/pipelines.py` 文件中，我们会写几个函数用来处理我们从网页上爬取到的数据。
 
 ```
 import json
