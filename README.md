@@ -30,7 +30,7 @@
 
 ## scrapy 框架
 
-1. [scrapy 框架简易上手]
+1. [scrapy 框架简易上手](/python_project/first_project.md)
 
 2. [scrapy 框架使用代理(使用代理API)](/python_project/scrapy_proxy.md)
 
